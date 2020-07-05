@@ -23,3 +23,4 @@ function Employee (name, age, baseSalary){
 let emp1 = new Employee('John', 30, 2000);
 emp1.getEmpDetails();    // Will show salary as well but hidden how it's implemented 
 
+//OK

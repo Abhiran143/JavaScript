@@ -1,0 +1,14 @@
+let A = true;
+let B = false;
+console.log(A || B);
+console.log(A && B);
+console.log(!A);
+console.log(!B); 
+console.log((10>5) || (6>3)) ;
+console.log((10<5) || (6>3)) ;  
+console.log((10>5) || (6<3)) ;  
+console.log((10<5) || (6<3)) ; 
+console.log((10>5) && (6>3)) ; 
+console.log((10<5) && (6>3)) ; 
+console.log((10>5) && (6<3)) ;  
+console.log((10<5) && (6<3)) ;
